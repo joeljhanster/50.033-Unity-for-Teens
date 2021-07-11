@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5d02c7c71a0915e408d0c8d9189e6194, type: 3}
+  m_Name: GameConstants
+  m_EditorClassIdentifier: 
+  consumeTimeStep: 10
+  consumeLargestScale: 4
+  breakTimeStep: 30
+  breakDebrisForce: 10
+  breakDebrisTorque: 10
+  spawnNumberOfDebris: 10
+  rotatorRotateSpeed: 350
+  coinTimeStep: 15
+  testValue: 0
+  maxOffset: 5
+  enemyPatroltime: 2
+  groundSurface: -1
+  numGombaEnemy: 1
+  numGreenEnemy: 1
+  enemySpawnPointStart: {x: 0, y: -0.5, z: 0}

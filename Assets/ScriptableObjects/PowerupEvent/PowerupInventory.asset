@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de833487af511344889844e79fe1305c, type: 3}
+  m_Name: PowerupInventory
+  m_EditorClassIdentifier: 
+  gameStarted: 0
+  Items:
+  - {fileID: 11400000, guid: be277a27e34533d4791b9e1becf1106d, type: 2}
+  - {fileID: 11400000, guid: 910ac99185af0dc4baa16916740257fb, type: 2}
